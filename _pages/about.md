@@ -36,7 +36,7 @@ Please feel free to contact me if you are interested in my research or potential
 
 [VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](https://libaolu312.github.io/VFXMaster/)
 
-Baolu Li<sup>*</sup>, **Yiming Zhang**<sup>*</sup>, Qinghe Wang<sup>*†</sup>, Liqian Ma<sup>✉</sup>, Xiaoyu Shi, Xintao Wang, Pengfei Wan, Zhenfei Yin, Yunzhi Zhuge, Huchuan Lu, Xu jia<sup>✉</sup>.
+Baolu Li<sup>*</sup>, Yiming Zhang<sup>*</sup>, Qinghe Wang<sup>*†</sup>, Liqian Ma<sup>✉</sup>, Xiaoyu Shi, Xintao Wang, Pengfei Wan, Zhenfei Yin, Yunzhi Zhuge, Huchuan Lu, Xu jia<sup>✉</sup>.
 
 <sup>*</sup>Equal Contribution    <sup>†</sup>Project Leader    <sup>✉</sup>Corresponding Author
 
@@ -56,7 +56,7 @@ Baolu Li<sup>*</sup>, **Yiming Zhang**<sup>*</sup>, Qinghe Wang<sup>*†</sup>, 
 
 [VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 
-Xindi Yang<sup>*</sup>, Baolu Li<sup>*</sup>, **Yiming Zhang**, Zhenfei Yin, Lei Bai<sup>✉</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu jia<sup>✉</sup>.
+Xindi Yang<sup>*</sup>, Baolu Li<sup>*</sup>, Yiming Zhang, Zhenfei Yin, Lei Bai<sup>✉</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu jia<sup>✉</sup>.
 
 <sup>*</sup>Equal Contribution    <sup>✉</sup>Corresponding Author
 
