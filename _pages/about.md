@@ -72,6 +72,9 @@ Xindi Yang<sup>*</sup>, Baolu Li<sup>*</sup>, Yiming Zhang, Zhenfei Yin, Lei Bai
 </div>
 </div>
 
+## Beyond Research
+Outside of research, I enjoy music, especially JJ Lin’s songs.
+
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
