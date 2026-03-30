@@ -25,9 +25,9 @@ Please feel free to contact me if you are interested in my research or potential
 - *2025.09 - now*, Master, Dalian University of Technology, Dalian.
 - *2021.09 - 2025.06*, Undergraduate, Dalian University of Technology, Dalian. 
 
-# 🔥 News
+<!--# 🔥 News 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications 
 
@@ -70,7 +70,7 @@ Xindi Yang<sup>*</sup>, Baolu Li<sup>*</sup>, **Yiming Zhang**, Zhenfei Yin, Lei
 </div>
 </div>
 
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -80,4 +80,4 @@ Xindi Yang<sup>*</sup>, Baolu Li<sup>*</sup>, **Yiming Zhang**, Zhenfei Yin, Lei
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
