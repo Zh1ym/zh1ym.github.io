@@ -85,7 +85,8 @@ Zexi Wu, Qinghe Wang<sup>✉</sup>, Yiming Zhang, Jing Dai, Baolu Li, Yiming Zha
 [[**Code**](https://github.com/BerserkerVV/Video2LoRA/)]
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
-</div> -->
+</div>
+-->
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
