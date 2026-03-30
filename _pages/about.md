@@ -31,7 +31,7 @@ Please feel free to contact me if you are interested in my research or potential
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Siggraph 2026</div><img src='images/VFXMaster.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](https://libaolu312.github.io/VFXMaster/)
