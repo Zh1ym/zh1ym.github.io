@@ -23,7 +23,7 @@ Please feel free to contact me if you are interested in my research or potential
 
 # 📖 Educations
 - *2025.09 - now*, Master, Dalian University of Technology, Dalian.
-- *2021.09 - 2025.06*, Undergraduate, Dalian University of Technology, Dalian. 
+- *2021.09 - 2025.06*, Bachelor, Dalian University of Technology, Dalian. 
 
 # 🔥 News 
 - *2025.10*: Release paper "[VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](https://libaolu312.github.io/VFXMaster/)".
