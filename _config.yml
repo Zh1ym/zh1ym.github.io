@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yiming Zhang"
+title                    : "Yiming Zhang (张一铭)"
 description              : "Focusing on video generation."
 repository               : "Zh1ym/zh1ym.github.io"
 google_scholar_stats_use_cdn : true
